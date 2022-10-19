@@ -12,6 +12,6 @@ design:
   columns: '1'
 ---
 
-I'm a vegetation scientist with a strong focus on temporal ecology. I'm currently a postdoctoral researcher at the Desertification Research Centre, an institute of the Spanish National Research Council CSIC. 
+My name is Manuele Bazzichetto. I am a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling, and, from recently, on the effect of climatic anomalies on ecosystem stability.
 
-**Keywords:** Temporal ecology, Resurveying studies, Protected areas effectiveness, Coastal dunes, Dry grasslands
+Since October 2022, I am a MSCA fellow at the Czech University of Life Sciences, where I will be investigating with Petr Keil how extreme climatic events affect the temporal stability of vegetation communities! Our project is named COCOS (effects of Climatic extremes On eCOsystem Stability), and I will be soon posting news and info about it.
