@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marta Gaia Sperandii
+title: Manuele Bazzichetto
 
 # Is this the primary user of the site?
 superuser: true
