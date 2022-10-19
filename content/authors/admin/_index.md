@@ -6,15 +6,15 @@ title: Manuele Bazzichetto
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: MSCA fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Consejo Superior de Investigaciones Cientificas
+- name: Czech University of Life Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A vegetation scientist with a strong focus on temporal plant ecology.
+bio: None.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -26,13 +26,13 @@ social:
   link: '/contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mgsperandii
+  link: https://twitter.com/MBazzichetto
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=RysWTycAAAAJ&hl=it&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ManueleBazzichetto
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
