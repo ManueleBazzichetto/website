@@ -9,7 +9,7 @@ superuser: true
 role: MSCA fellow
 
 # Organizations/Affiliations
-organizations: Czech University of Life sciences
+organization: Czech University of Life sciences
 
 # Short bio (displayed in user profile at end of posts)
 bio: None.
