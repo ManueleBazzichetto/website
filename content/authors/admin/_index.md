@@ -10,8 +10,7 @@ role: MSCA fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Czech University of Life Science
-  url: https://www.czu.cz/en
+- name: [ {name="MOBI Lab", url="https://petrkeil.github.io"},{name="Department of Spatial Sciences", url="https://www.fzp.czu.cz/en/r-9407-departments/r-9471-departments/r-9649-department-of-spatial-sciences"}, { name = "Czech University of Life Sciences Prague", url = "" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio: None.
@@ -23,19 +22,22 @@ bio: None.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:manuele.bazzichetto@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MBazzichetto
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RysWTycAAAAJ&hl=it&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9874-5064
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Manuele-Bazzichetto
 - icon: github
   icon_pack: fab
   link: https://github.com/ManueleBazzichetto
-- icon: RG
-  icon_pack:
-  link: https://www.scopus.com/authid/detail.uri?authorId=57190729868
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
