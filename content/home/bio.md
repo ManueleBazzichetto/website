@@ -19,7 +19,7 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: dunes2.jpg  # Name of image in `static/media/`.
+    image: Pingu.jpg  # Name of image in `static/media/`.
     image_darken: 0.6
     image_size: cover
     image_position: center
