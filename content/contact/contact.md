@@ -16,9 +16,9 @@ content:
   # Contact (add or remove contact options as necessary)
   email: manuele.bazzichetto@gmail.com
   address:
-    street: Kamýcka 129 
+    street: Kamýcka 129
     city: Suchdol-Prague
-    postcode: 16500
+    postcode: 165 00
     country: Czech Republic
 
   # Automatically link email and phone or display as text?

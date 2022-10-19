@@ -9,8 +9,9 @@ superuser: true
 role: MSCA fellow
 
 # Organizations/Affiliations
-organizations:
-- name: [ {name="MOBI Lab", url="https://petrkeil.github.io"},{name="Department of Spatial Sciences", url="https://www.fzp.czu.cz/en/r-9407-departments/r-9471-departments/r-9649-department-of-spatial-sciences"}, { name = "Czech University of Life Sciences Prague", url = "" }]
+organizations: Czech University of Life sciences
+ url: https://www.czu.cz/en
+affiliations: [{name="MOBI Lab", url="https://petrkeil.github.io"},{name="Department of Spatial Sciences", url="https://www.fzp.czu.cz/en/r-9407-departments/r-9471-departments/r-9649-department-of-spatial-sciences"}, { name = "Czech University of Life Sciences Prague", url = "" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio: None.
