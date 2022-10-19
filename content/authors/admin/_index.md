@@ -11,7 +11,7 @@ role: MSCA fellow
 # Organizations/Affiliations
 organizations:
 - name: Czech University of Life Science
-  url: ""
+  url: https://www.czu.cz/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: None.
@@ -33,11 +33,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ManueleBazzichetto
+- icon: RG
+  icon_pack:
+  link: https://www.scopus.com/authid/detail.uri?authorId=57190729868
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/ManueleBazzichettoCV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
