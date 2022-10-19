@@ -9,7 +9,12 @@ superuser: true
 role: MSCA fellow
 
 # Organizations/Affiliations
-organization: Czech University of Life sciences
+organizations:
+- name: Czech University of Life Sciences
+  url: https://www.czu.cz/en
+affiliations:
+  - name: MOBI lab
+  url: https://petrkeil.github.io
 
 # Short bio (displayed in user profile at end of posts)
 bio: None.
