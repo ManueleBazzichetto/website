@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Research
+  - name: COCOS
     url: '/project'
     weight: 30
   - name: Events
