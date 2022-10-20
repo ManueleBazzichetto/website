@@ -10,9 +10,12 @@ main:
   - name: COCOS
     url: '/project'
     weight: 40
-  - name: Events
-    url: '/event'
+  - name: Blog
+    url: '/blog'
     weight: 50
+#  - name: Events
+#    url: '/event'
+#    weight: 50
   - name: Publications
     url: '/publication'
     weight: 30
