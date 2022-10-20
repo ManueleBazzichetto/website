@@ -14,13 +14,13 @@ header:
   caption: ""
   image: ""
 ---
-List of publications divided per macro-area:
+List of publications sorted by macro(field):
 
 ## Vegetation ecology
 
 - De Toma, A., Carboni, M., **Bazzichetto**, M., Malavasi, M., & Cutini, M. (2022). _Dynamics of dwarf shrubs in Mediterranean high‐mountain ecosystems_. Journal of Vegetation Science, 33(4), e13143. [**https://doi.org/10.1111/jvs.13143**](https://doi.org/10.1111/jvs.13143)
 
-- Sperandii, M.G., de Bello, F., Valencia, E., Götzenberger, L., **Bazzichetto, M.**, Galland, T., .... , & Leps, J. _LOTVS: a global collection of permanent vegetation plots_. Journal of Vegetation Science, e13115. [**https://doi.org/10.1111/jvs.13115**](https://doi.org/10.1111/jvs.13115)
+- Sperandii, M.G., de Bello, F., Valencia, E., Götzenberger, L., **Bazzichetto, M.**, Galland, T., .... , & Leps, J. (2022). _LOTVS: a global collection of permanent vegetation plots_. Journal of Vegetation Science, e13115. [**https://doi.org/10.1111/jvs.13115**](https://doi.org/10.1111/jvs.13115)
 
 - Malavasi, M., **Bazzichetto, M.**, Komarek, J., Moravec, D., Moudry, V., Rocchini, D., Bagella, S., Acosta, A.T.R. & Carranza, M.L. (2021). _Unmanned aerial systems-based monitoring of the eco-geomorphology of coastal dunes through spectral Rao's Q_. Applied Vegetation Science, 24(1), e12567. [**https://doi.org/10.1111/avsc.12567**](https://doi.org/10.1111/avsc.12567)
 
@@ -51,7 +51,7 @@ List of publications divided per macro-area:
 
 - Poeta, G.^, **Bazzichetto, M.**^, Gallitelli, L., ... & Malavasi, M. (2022). _One year after on Tyrrhenian coasts: The ban of cotton buds does not reduce their dominance in beach litter composition_. Marine Policy, 143, 105195. [**https://doi.org/10.1016/j.marpol.2022.105195**](https://doi.org/10.1016/j.marpol.2022.105195)
 
-- Battisti, C., **Bazzichetto, M.**, Poeta, G., Pietrelli, L., & Acosta, A.T.R. (2017). _Measuring non-biological diversity using commonly used metrics: Strengths, weaknesses and caveats for their application in beach litter management_. Journal of coastal conservation, 21(2), 303-310. [**https://doi.org/10.1007/s11852-017-0505-9**](https://doi.org/10.1007/s11852-017-0505-9)
+- Battisti, C., **Bazzichetto, M.**, Poeta, G., Pietrelli, L., & Acosta, A.T.R. (2017). _Measuring non-biological diversity using commonly used metrics: Strengths, weaknesses and caveats for their application in beach litter management_. Journal of coastal conservation, 21(2), 303-310. [**https://doi.org/10.1007/s11852-017-0505-9**](https://doi.org/10.1007/s11852-017-0505-9). ^ Shared first authorship.
 
 - Poeta, G., Battisti, C., **Bazzichetto, M.**, & Acosta, A.T.R. (2016). _The cotton buds beach: Marine litter assessment along the Tyrrhenian coast of central Italy following the marine strategy framework directive criteria_. Marine pollution bulletin, 113(1-2), 266-270. [**https://doi.org/10.1016/j.marpolbul.2016.09.035**](https://doi.org/10.1016/j.marpolbul.2016.09.035)
 
@@ -61,6 +61,3 @@ List of publications divided per macro-area:
 - Yannelli, F., **Bazzichetto, M.**, Conradi, T., Pattison, Z., Andrade, B.O., .... , & Sperandii, M.G. _Fifteen emerging challenges and opportunities for vegetation science - A horizon scan by early career researchers_. Journal of Vegetation Science, e13119. [**https://doi.org/10.1111/jvs.13119**](https://doi.org/10.1111/jvs.13119)
 
 - Rocchini, D., Iannacito, M., Thouverai, E., Marcantonio, M., Da Re, D., Bacaro, G., **Bazzichetto, M.**,  Bernardi, A., Foody, G.M., Furrer, R., Larsen, S., Lenoir, J., Malavasi, M., Montaghi, A., Moudrý, V., Naimi, B., Payne, D., Ricotta, C., ..., Wegmann, M. (2021). _rasterdiv: an Information Theory tailored R package for measuring diversity from space: to the origin and back_. Methods in Ecology and Evolution, 12(6): 1093-1102. [**https://doi.org/10.1111/2041-210X.13583**](https://doi.org/10.1111/2041-210X.13583)
-
-
-^ Shared first authorship.

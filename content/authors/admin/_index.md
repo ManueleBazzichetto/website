@@ -14,7 +14,7 @@ organizations:
   url: https://www.czu.cz/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: none.
+bio: By learning to do the easy things the hard way, the hard things will become easy (Royale & Dorazio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
