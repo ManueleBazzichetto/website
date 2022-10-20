@@ -6,18 +6,15 @@ title: Manuele Bazzichetto
 superuser: true
 
 # Role/position
-role: MSCA fellow
+#role: MSCA fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Czech University of Life Sciences
   url: https://www.czu.cz/en
-affiliations:
-- name: MOBI lab
-  url: https://petrkeil.github.io
 
 # Short bio (displayed in user profile at end of posts)
-bio: None.
+bio: none.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
