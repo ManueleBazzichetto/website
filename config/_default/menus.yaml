@@ -8,7 +8,7 @@ main:
     url: '/'
     weight: 10
   - name: COCOS
-    url: '/project'
+    url: '/COCOS'
     weight: 40
   - name: Blog
     url: '/blog'
