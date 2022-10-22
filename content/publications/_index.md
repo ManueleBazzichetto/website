@@ -1,5 +1,6 @@
 ---
-title: Publications
+title: "List of publications (since 2016)"
+subtitle: sorted by macro-categories
 cms_exclude: true
 
 # View.
@@ -7,15 +8,13 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-#view: 4
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
-List of publications sorted by macro(field):
-
 ## Vegetation ecology
 
 - De Toma, A., Carboni, M., **Bazzichetto**, M., Malavasi, M., & Cutini, M. (2022). _Dynamics of dwarf shrubs in Mediterranean high‐mountain ecosystems_. Journal of Vegetation Science, 33(4), e13143. [**https://doi.org/10.1111/jvs.13143**](https://doi.org/10.1111/jvs.13143)
