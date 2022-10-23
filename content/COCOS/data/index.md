@@ -9,3 +9,4 @@ show_date: false
 
 weight: 30
 ---
+<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/leaflet/LOTVS_wdgt_for_site.html"></iframe>
