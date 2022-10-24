@@ -9,4 +9,4 @@ show_date: false
 
 weight: 30
 ---
-<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/LOTVS_wdgt_for_site.html"></iframe>
+<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="https://github.com/ManueleBazzichetto/website/blob/main/static/img/LOTVS_wdgt_for_site.html"></iframe>
