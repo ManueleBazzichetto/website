@@ -15,6 +15,9 @@ header:
   caption: ""
   image: ""
 ---
+
+<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
+
 ## Vegetation ecology
 
 - De Toma, A., Carboni, M., **Bazzichetto**, M., Malavasi, M., & Cutini, M. (2022). _Dynamics of dwarf shrubs in Mediterranean high‐mountain ecosystems_. Journal of Vegetation Science, 33(4), e13143. [**https://doi.org/10.1111/jvs.13143**](https://doi.org/10.1111/jvs.13143)
