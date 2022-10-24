@@ -1,6 +1,6 @@
 ---
-title: "List of publications (since 2016)"
-subtitle: sorted by macro-categories
+title: "Publications"
+#subtitle:
 cms_exclude: true
 
 # View.
@@ -16,11 +16,13 @@ header:
   image: ""
 ---
 
-## Below, a 'publication network' highlighting nodes and connections of my research!
+### Below, a 'publication network' highlighting nodes and connections of my research!
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
-## Vegetation ecology
+### List of publications (since 2016) sorted by macro-categories
+
+#### Vegetation ecology
 
 - De Toma, A., Carboni, M., **Bazzichetto**, M., Malavasi, M., & Cutini, M. (2022). _Dynamics of dwarf shrubs in Mediterranean high‐mountain ecosystems_. Journal of Vegetation Science, 33(4), e13143. [**https://doi.org/10.1111/jvs.13143**](https://doi.org/10.1111/jvs.13143)
 
@@ -38,7 +40,7 @@ header:
 
 - **Bazzichetto, M.**, Malavasi, M., Acosta, A.T.R., & Carranza, M. L. (2016). _How does dune morphology shape coastal EC habitats occurrence? A remote sensing approach using airborne LiDAR on the Mediterranean coast_. Ecological indicators, 71, 618-626. [**https://doi.org/10.1016/j.ecolind.2016.07.044**](https://doi.org/10.1016/j.ecolind.2016.07.044)
 
-## Invasion ecology
+#### Invasion ecology
 
 - Renault, D., Hess, M. C., Braschi, J., Cuthbert, R. N., Sperandii, M. G., **Bazzichetto, M.**, ... & Massol, F. (2022). _Advancing biological invasion hypothesis testing using functional diversity indices_. Science of The Total Environment, 155102. [**https://doi.org/10.1016/j.scitotenv.2022.155102**](https://doi.org/10.1016/j.scitotenv.2022.155102)
 
@@ -51,7 +53,7 @@ header:
 - **Bazzichetto, M.**, Malavasi, M., Bartak, V., Acosta, A.T.R., Rocchini, D., & Carranza, M. L. (2018). _Plant invasion risk: A quest for invasive species distribution modelling in managing protected areas_. Ecological Indicators, 95, 311-319. [**https://doi.org/10.1016/j.ecolind.2018.07.046**](https://doi.org/10.1016/j.ecolind.2018.07.046)
 - **Bazzichetto, M.**, Malavasi, M., Barták, V., Acosta, A.T.R., Moudrý, V., & Carranza, M. L. (2018). _Modeling plant invasion on Mediterranean coastal landscapes: An integrative approach using remotely sensed data_. Landscape and Urban Planning, 171, 98-106. [**https://doi.org/10.1016/j.landurbplan.2017.11.006**](https://doi.org/10.1016/j.landurbplan.2017.11.006)
 
-## Beach litter
+#### Beach litter
 
 - Poeta, G.^, **Bazzichetto, M.**^, Gallitelli, L., ... & Malavasi, M. (2022). _One year after on Tyrrhenian coasts: The ban of cotton buds does not reduce their dominance in beach litter composition_. Marine Policy, 143, 105195. [**https://doi.org/10.1016/j.marpol.2022.105195**](https://doi.org/10.1016/j.marpol.2022.105195)
 
@@ -60,7 +62,7 @@ header:
 - Poeta, G., Battisti, C., **Bazzichetto, M.**, & Acosta, A.T.R. (2016). _The cotton buds beach: Marine litter assessment along the Tyrrhenian coast of central Italy following the marine strategy framework directive criteria_. Marine pollution bulletin, 113(1-2), 266-270. [**https://doi.org/10.1016/j.marpolbul.2016.09.035**](https://doi.org/10.1016/j.marpolbul.2016.09.035)
 
 
-## Miscellanea
+#### Miscellanea
 
 - Yannelli, F., **Bazzichetto, M.**, Conradi, T., Pattison, Z., Andrade, B.O., .... , & Sperandii, M.G. _Fifteen emerging challenges and opportunities for vegetation science - A horizon scan by early career researchers_. Journal of Vegetation Science, e13119. [**https://doi.org/10.1111/jvs.13119**](https://doi.org/10.1111/jvs.13119)
 
