@@ -58,6 +58,7 @@ markup:
     renderer:
       unsafe: true
       xhtml: true
+      hardWraps: true
   _merge: deep
 related:
   threshold: 80
