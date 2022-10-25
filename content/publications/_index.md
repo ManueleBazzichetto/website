@@ -18,7 +18,7 @@ header:
 
 ### Below, a 'publication network' highlighting nodes and connections of my research!
 
-<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="NetworkBaz.html"></iframe>
+<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
 ### List of publications (since 2016) sorted by macro-categories
 
