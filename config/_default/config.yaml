@@ -57,6 +57,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      xhtml: true
   _merge: deep
 related:
   threshold: 80
