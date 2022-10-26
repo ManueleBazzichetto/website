@@ -3,6 +3,8 @@ title: "Publications"
 #subtitle:
 cms_exclude: true
 
+drafts: false
+
 # View.
 #   1 = List
 #   2 = Compact
