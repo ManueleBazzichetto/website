@@ -3,7 +3,7 @@ title: "Publications"
 #subtitle:
 cms_exclude: true
 
-#drafts: false
+draft: false
 
 # View.
 #   1 = List
