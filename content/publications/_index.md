@@ -22,7 +22,7 @@ header:
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
-### List of publications (since 2016) sorted by macro-categories
+### List of publications since 2016 sorted by macro-categories
 
 #### Vegetation ecology
 
