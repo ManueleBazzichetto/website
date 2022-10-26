@@ -42,6 +42,6 @@ This project aims at addressing these limitations and improving our fragmented k
 
 <br>
 
-Find [here](https://cordis.europa.eu/project/id/101066324) the project summary in DE, EN, ES, IT, FR, PL.
+Find [here](https://cordis.europa.eu/project/id/101066324) a project summary available in the following languages: DE, EN, ES, IT, FR, PL.
 
 <br>
