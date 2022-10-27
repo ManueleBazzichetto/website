@@ -1,7 +1,7 @@
 # a path:
 /static/img/NetworkBaz.html
   # headers for that path:
-  X-Frame-Options: ALLOWALL
+  X-Frame-Options: SAMEORIGIN
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline';
 # any other paths:
 /*
