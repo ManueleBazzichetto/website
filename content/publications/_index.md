@@ -22,8 +22,6 @@ header:
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
-<iframe seamless = "" width = "100%", height = "500" src="https://github.com/ManueleBazzichetto/website/blob/main/static/img/LOTVS_wdgt_for_site.html"></iframe>
-
 ### List of publications (since 2016) sorted by macro-categories
 
 #### Vegetation ecology
