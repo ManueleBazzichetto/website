@@ -9579,13 +9579,13 @@ div.chart {
   margin-bottom: 1rem;
   overflow-x: auto; }
 
-@media (min-width: 1400px) {
+@media (min-width: 1200px) {
   .home-section .container {
-    max-width: 1000px; } }
+    max-width: 880px; } }
 
-@media (min-width: 1400px) {
+@media (min-width: 992px) {
   .home-section .container {
-    max-width: 1000px; } }
+    max-width: 880px; } }
 
 .home-section {
   padding: 0; }
