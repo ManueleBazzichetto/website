@@ -5,5 +5,5 @@
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline';
 # any other paths:
 /*
-  X-Frame-Options: DENY
+  X-Frame-Options: SAMEORIGIN
   Content-Security-Policy: default-src 'self'
