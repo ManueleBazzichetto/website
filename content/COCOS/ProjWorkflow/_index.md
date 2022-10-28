@@ -7,6 +7,7 @@ title: Project workflow
 show_date: false
 
 weight: 20
+tags: cocos
 ---
 
 <br>

@@ -3,6 +3,7 @@ title: COCOS
 subtitle: effects of Climatic extremes On eCOsystem Stability
 tags:
 - research
+- cocos
 #date: "2022-10-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,7 +16,7 @@ external_link: ""
 weight: 10
 
 links:
-- icon: twitter
+  icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/MBazzichetto
