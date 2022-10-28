@@ -16,7 +16,7 @@ external_link: ""
 weight: 10
 
 links:
-  icon: twitter
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/MBazzichetto
