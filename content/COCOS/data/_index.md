@@ -8,7 +8,7 @@ subtitle: data used in the project
 show_date: false
 
 weight: 30
-tags: cocos
+#tags: cocos
 ---
 
 ## LOTVS dataset
