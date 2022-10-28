@@ -19,9 +19,9 @@ main:
   - name: Publications
     url: '/publications'
     weight: 30
-  - name: Contact
-    url: '/contact'
-    weight: 60
+#  - name: Contact
+#    url: '/contact'
+#    weight: 60
 #  - name: Research
 #    url: '/research'
 #    weight: 20

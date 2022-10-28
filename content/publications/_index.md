@@ -18,7 +18,7 @@ header:
   image: ""
 ---
 
-### Below, a 'publication network' highlighting nodes and connections of my research!
+### Below, a 'publication network' highlighting nodes and connections of my research topics!
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
