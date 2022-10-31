@@ -33,7 +33,7 @@ url_video: ""
 slides: example
 ---
 
-#### COCOS was funded under the Horizon-Marie Skłodowska Curie Actions-PF-01 (Proposal number: 101066324). The project has started in October 2022 and will terminate two years after (October 2022).
+#### COCOS was funded under the Horizon-Marie Skłodowska Curie Actions-PF-01 2021 (Proposal number: 101066324). The project has started in October 2022 and lasts 2 years.
 
 #### Summary of the project
 
