@@ -33,6 +33,11 @@ url_video: ""
 slides: example
 ---
 
+<figure>
+  <img src="EU_logo.jpg" alt="" style="width:75%">
+  <figcaption></figcaption>
+</figure>
+
 #### COCOS was funded under the Horizon-Marie Skłodowska Curie Actions-PF-01 2021 (Proposal number: 101066324). The project has started in October 2022 and lasts 2 years.
 
 #### Summary of the project
