@@ -95,7 +95,7 @@ Here, we use the fact that, under independence, the variance of the sum of _n_ i
 
 ### Derive bias of $s^2$
 
-Bias of an estimator is:
+The bias of an estimator is computed as:
 
 $Bias=E(\overline{\theta} - \theta)$
 
@@ -104,5 +104,5 @@ Specifically for $s^2$, we have that:
 
 $Bias=E(s^2 - \sigma^2)=E(s^2) - \sigma^2=\frac{n-1}{n}\sigma^2 - \sigma^2=-\frac{\sigma^2}{n}$
 
-We used another rule for expectations here: the expectation of a sum is equale to the sum of expectations.
+We used another rule for expectations here: the expectation of a sum is equal to the sum of expectations.
 Deriving the bias of $s^2$ confirms what we saw above. In short, $s^2$ is downwardly biased, but its bias decreases as _N_ increases.
