@@ -93,4 +93,16 @@ Here, we use the fact that, under independence, the variance of the sum of _n_ i
   <figcaption></figcaption>
 </figure>
 
-### Derive bias of $\sigma^2$
+### Derive bias of $s^2$
+
+Bias of an estimator is:
+
+$Bias=E(\overline{\theta} - \theta)$
+
+Basically, is the expected difference between the estimator and the parameter. Imagine to compute a large number of estimates (e.g., values of a number of averages) and sum up the difference between these estimates and the parameter (note that this is possible only if we know the value of the parameter as it is the case in simulations). We are not interested about how much the estimator fluctuates around the parameter. We want to know how much, on average, the estimator is far from the parameter. Hence, this time it makes sense to sum up positive and negative differences and let them offset.
+Specifically for $s^2$, we have that:
+
+$Bias=E(s^2 - \sigma^2)=E(s^2) - \sigma^2=\frac{n-1}{n}\sigma^2 - \sigma^2=-\frac{\sigma^2}{n}$
+
+We used another rule for expectations here: the expectation of a sum is equale to the sum of expectations.
+Deriving the bias of $s^2$ confirms what we saw above. In short, $s^2$ is downwardly biased, but its bias decreases as _N_ increases.
