@@ -43,7 +43,7 @@ Let's move $\frac{n}{\sigma^2}$ to the RHS and take the expectation of $\chi^2_{
 
 $E(s^2)=\frac{n-1}{n}\sigma^2$
 
-Ask ourselves again what happens if we estimate $\sigma^2$ with an increasing number of observations. As _N_ increases the ratio $\frac{n-1}{n}$ goes to 1 and the expected value of our estimator $s^2$ converges to the parameter! This means that as we get more data, the estimator starts fluctuating more and more around the true, but unknown variance (see how to compute the bias of $s^2$ at the bottom of this page).
+Ask ourselves again what happens if we estimate $\sigma^2$ with an increasing number of observations. As _N_ increases the ratio $\frac{n-1}{n}$ goes to 1 and the expected value of our estimator $s^2$ converges to the parameter! This means that as we get more data, the estimator starts fluctuating more and more around the true, but unknown variance (see section 2 at the bottom of this page to know how to compute the bias of $s^2$).
 
 Now, let's work out the variance of $s^2$. Yes, we are dealing with the variance of the estimator of the variance. No surprise here: an estimator is essentially a random variable and, as such, has its own variance (aka sampling variance). We can derive the variance of $s^2$ as we did for its expectation:
 
@@ -99,7 +99,7 @@ Here, we use the fact that, under independence, the variance of the sum of _n_ i
 
 An expectation is usually denoted by the letter $E$ and represents the mean score that a random variable would assume if we were to repeat an experiment an indefinitely large amount of times (sounds a lot like frequentist approach). We usually repeat an experiment a limited number of times, so, unluckily, we will never be able to get to the expectation. For the moment, we are fine with knowing that the expectation of a random variable is computed as the sum of the product of the value of the random variable times its probability of occurrence (replace sum by integral and probability by density and you get how to compute the expectation of a continuous random variable, sums and probabilities are for discrete cases).
 
-### Derive bias of $s^2$
+### Section 2 - Derive bias of $s^2$
 
 The bias of an estimator is computed as:
 
