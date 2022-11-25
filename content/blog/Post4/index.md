@@ -21,7 +21,7 @@ I have heard/read many definitions of what a random variable is. Some are more '
 
 Math-oriented definition:
 
-A random variable is a function that maps the outcome of an experiment (i.e., one of its possible realizations) to a number belonging to the real domain ($\mathbb{R}$). So, basically, each time an experiment is carried out, an observation is made and the random variable maps the observation to a number. Note that the fact that the observation is 'transformed' to a number is crucial, as we will need to do math with these numbers (e.g., we will estimate means, variances or whatever other quantity of interest).  
+- A random variable is a function that maps the outcome of an experiment (i.e., one of its possible realizations) to a number belonging to the real domain ($\mathbb{R}$). So, basically, each time an experiment is carried out, an observation is made and the random variable maps the observation to a number. Note that the fact that the observation is 'transformed' to a number is crucial, as we will need to do math with these numbers (e.g., we will estimate means, variances or whatever other quantity of interest).  
 
 Informal, but intuitive, definitions:
 
@@ -33,7 +33,7 @@ Informal, but intuitive, definitions:
 
 Programming-oriented definition:
 
-If you are familiar with the R programming language, well, you can think of a random variable as the formals of a function. When we write a function, formals are used as symbols that will assume a value only when the function is run and they are needed (see lazy evaluation).
+- If you are familiar with the R programming language, well, you can think of a random variable as the formals of a function. When we write a function, formals are used as symbols that will assume a value only when the function is run and they are needed (see lazy evaluation).
 
 #### Sample spaces, outcomes and events
 
