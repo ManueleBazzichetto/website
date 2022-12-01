@@ -37,7 +37,7 @@ Programming-oriented definition:
 
 #### Sample spaces, outcomes and events
 
-To more formally introduce the concept of random variable, we need to talk about sample spaces, outcomes and events. In a nutshell, outcomes, as said above, are individual realizations of an experiment. Sample spaces include all possible outcomes of an experiment (the sample space is the space where outcomes live). Indeed, sample spaces are represented as sets of outcomes. If our experiment consisted in flipping a coin twice, then the sample space would be represented as ${HH, HT, TH, TT}$. There exists different types of samples spaces: discrete finite, discrete infinite and continuous. Depending on the type of sample space, the random variable will be ..
+To more formally introduce the concept of random variable, we need to talk about sample spaces, outcomes and events. In a nutshell, outcomes, as said above, are individual realizations of an experiment. Sample spaces include all possible outcomes of an experiment (the sample space is the space where outcomes live). Indeed, sample spaces are represented as sets of outcomes. If our experiment consisted in flipping a coin twice, then the sample space would be represented as \{ HH, HT, TH, TT \}. There exists different types of samples spaces: discrete finite, discrete infinite and continuous. Depending on the type of sample space, the random variable will be ..
 
 #### Some words on notation
 
