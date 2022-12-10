@@ -34,7 +34,12 @@ slides: example
 ---
 
 <figure>
-  <img src="EU_logo.jpg" alt="" style="width:75%">
+  <img src="5.png" alt="" style="width:45%">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+  <img src="EU_logo.jpg" alt="" style="width:30%">
   <figcaption></figcaption>
 </figure>
 
