@@ -60,7 +60,7 @@ header:
 
 - Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto**, M.^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. [**https://doi.org/10.32942/X2XS32**](https://doi.org/10.32942/X2XS32). (Accepted in **Methods in Ecology and Evolution**)
 
-- **Bazzichetto**, M., Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
+- **Bazzichetto**, M., Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Barták, V., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
 
 - Marchetto, E., Da Re, D., Tordoni, E., **Bazzichetto**, M., Zannini, P., Celebrin, S., ... & Rocchini, D. (2023). _Testing the effect of sample prevalence and sampling methods on probability-and favourability-based SDMs_. Ecological Modelling, 477, 110248. [**https://doi.org/10.1016/j.ecolmodel.2022.110248**](https://doi.org/10.1016/j.ecolmodel.2022.110248)
 
