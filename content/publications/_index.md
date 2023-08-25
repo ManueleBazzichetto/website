@@ -81,3 +81,8 @@ header:
 - Yannelli, F., **Bazzichetto, M.**, Conradi, T., Pattison, Z., Andrade, B.O., .... , & Sperandii, M.G. _Fifteen emerging challenges and opportunities for vegetation science - A horizon scan by early career researchers_. Journal of Vegetation Science, e13119. [**https://doi.org/10.1111/jvs.13119**](https://doi.org/10.1111/jvs.13119)
 
 - Rocchini, D., Iannacito, M., Thouverai, E., Marcantonio, M., Da Re, D., Bacaro, G., **Bazzichetto, M.**,  Bernardi, A., Foody, G.M., Furrer, R., Larsen, S., Lenoir, J., Malavasi, M., Montaghi, A., Moudrý, V., Naimi, B., Payne, D., Ricotta, C., ..., Wegmann, M. (2021). _rasterdiv: an Information Theory tailored R package for measuring diversity from space: to the origin and back_. Methods in Ecology and Evolution, 12(6): 1093-1102. [**https://doi.org/10.1111/2041-210X.13583**](https://doi.org/10.1111/2041-210X.13583)
+
+
+<br>
+
+^ Shared first authorship.
