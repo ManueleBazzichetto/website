@@ -53,7 +53,18 @@ header:
 - Marzialetti F., **Bazzichetto M.**, Giulio S., Acosta A.T.R., Stanisci A., Malavasi M., & Carranza M.L. (2019). _Modelling Acacia saligna invasion on the Adriatic coastal landscape: An integrative approach using LTER data_. In: Mazzocchi MG, Capotondi L, Freppaz M, Lugliè A, Campanaro A (Eds) Italian Long-Term Ecological Research for understanding ecosystem diversity and functioning. Case studies from aquatic, terrestrial and transitional domains. Nature Conservation 34: 127–144. [**https://doi.org/10.3897/natureconservation.34.29575**](https://doi.org/10.3897/natureconservation.34.29575)
 
 - **Bazzichetto, M.**, Malavasi, M., Bartak, V., Acosta, A.T.R., Rocchini, D., & Carranza, M. L. (2018). _Plant invasion risk: A quest for invasive species distribution modelling in managing protected areas_. Ecological Indicators, 95, 311-319. [**https://doi.org/10.1016/j.ecolind.2018.07.046**](https://doi.org/10.1016/j.ecolind.2018.07.046)
+
 - **Bazzichetto, M.**, Malavasi, M., Barták, V., Acosta, A.T.R., Moudrý, V., & Carranza, M. L. (2018). _Modeling plant invasion on Mediterranean coastal landscapes: An integrative approach using remotely sensed data_. Landscape and Urban Planning, 171, 98-106. [**https://doi.org/10.1016/j.landurbplan.2017.11.006**](https://doi.org/10.1016/j.landurbplan.2017.11.006)
+
+#### Species distribution modelling
+
+- Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto**, M.^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. [**https://doi.org/10.32942/X2XS32**](https://doi.org/10.32942/X2XS32). (Accepted in **Methods in Ecology and Evolution**)
+
+- **Bazzichetto**, M., Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
+
+- Marchetto, E., Da Re, D., Tordoni, E., **Bazzichetto**, M., Zannini, P., Celebrin, S., ... & Rocchini, D. (2023). _Testing the effect of sample prevalence and sampling methods on probability-and favourability-based SDMs_. Ecological Modelling, 477, 110248. [**https://doi.org/10.1016/j.ecolmodel.2022.110248**](https://doi.org/10.1016/j.ecolmodel.2022.110248)
+
+- Rocchini, D., Tordoni, E., Marchetto, E., Marcantonio, M., Barbosa, A. M., **Bazzichetto, M.**, ... & Malavasi, M. (2023). _A quixotic view of spatial bias in modelling the distribution of species and their diversity_. npj Biodiversity, 2(1), 10. [**https://doi.org/10.1038/s44185-023-00014-6**](https://doi.org/10.1038/s44185-023-00014-6)
 
 #### Beach litter
 
@@ -63,8 +74,9 @@ header:
 
 - Poeta, G., Battisti, C., **Bazzichetto, M.**, & Acosta, A.T.R. (2016). _The cotton buds beach: Marine litter assessment along the Tyrrhenian coast of central Italy following the marine strategy framework directive criteria_. Marine pollution bulletin, 113(1-2), 266-270. [**https://doi.org/10.1016/j.marpolbul.2016.09.035**](https://doi.org/10.1016/j.marpolbul.2016.09.035)
 
-
 #### Miscellanea
+
+- Malavasi, M., **Bazzichetto**, M., Bagella, S., Barták, V., Depalmas, A., Gregorini, A., ... & Bagella, S. (2023). _Ecology meets archaeology: Past, present and future vegetation‐derived ecosystems services from the Nuragic Sardinia (1700–580 BCE)_. People and Nature, 5(3). [**https://doi.org/10.1002/pan3.10461**](https://doi.org/10.1002/pan3.10461)
 
 - Yannelli, F., **Bazzichetto, M.**, Conradi, T., Pattison, Z., Andrade, B.O., .... , & Sperandii, M.G. _Fifteen emerging challenges and opportunities for vegetation science - A horizon scan by early career researchers_. Journal of Vegetation Science, e13119. [**https://doi.org/10.1111/jvs.13119**](https://doi.org/10.1111/jvs.13119)
 
