@@ -18,7 +18,7 @@ header:
   image: ""
 ---
 
-### Below, a 'publication network' highlighting nodes and connections of my research topics!
+### Below, a 'publication network' highlighting nodes and connections among the research topics I mostly work on!
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
@@ -58,7 +58,7 @@ header:
 
 #### Species distribution modelling
 
-- Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto**, M.^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. [**https://doi.org/10.32942/X2XS32**](https://doi.org/10.32942/X2XS32). (Accepted in **Methods in Ecology and Evolution**)
+- Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto**, M.^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. Methods in Ecology and Evolution, 14(11), pp 2873-2887. (**https://doi.org/10.1111/2041-210X.14209**)
 
 - **Bazzichetto**, M., Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Barták, V., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
 
