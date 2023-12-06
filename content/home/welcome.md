@@ -12,6 +12,6 @@ design:
   columns: '1'
 ---
 
-My name is Manuele Bazzichetto. I am a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling, and, from recently, on the effect of climatic anomalies on ecosystem stability.
+My name is Manuele Bazzichetto. I am a vegetation ecologist broadly interested in what drives vegetation patterns and processes across space and over time. So far, My research has focused on biological invasions, species distribution modelling, and, from recently, I have started investigating the effect of climatic extremes on the stability of ecosystem functions.
 
-Since October 2022, I am a MSCA (Marie Skłodowska-Curie Actions) fellow at the [*MOBI lab*](https://petrkeil.github.io) (Dpt. of Spatial Science, Czech University of Life Sciences), where I will be investigating with Petr Keil how extreme climatic events affect the temporal stability of vegetation communities. Our project is named [*COCOS*](https://mbazzichetto.netlify.app/cocos/) (effects of Climatic extremes On eCOsystem Stability), and I will be posting news and info about it.
+Since October 2022, I am a MSCA (Marie Skłodowska-Curie Actions) fellow at the [*MOBI lab*](https://petrkeil.github.io) (Dpt. of Spatial Science, Czech University of Life Sciences), where, together with Petr Keil, I will be investigating how extreme climatic events affect the temporal stability of vegetation-related functions, such as plan biomass. Our project is named [*COCOS*](https://mbazzichetto.netlify.app/cocos/) (effects of Climatic extremes On eCOsystem Stability), and I will be posting news about it [*here*](https://mbazzichetto.netlify.app/cocos/).
