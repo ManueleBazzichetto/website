@@ -26,7 +26,9 @@ header:
 
 #### Vegetation ecology
 
-- De Toma, A., Carboni, M., **Bazzichetto**, M., Malavasi, M., & Cutini, M. (2022). _Dynamics of dwarf shrubs in Mediterranean high‐mountain ecosystems_. Journal of Vegetation Science, 33(4), e13143. [**https://doi.org/10.1111/jvs.13143**](https://doi.org/10.1111/jvs.13143)
+- **Bazzichetto, M.**, Sperandii, M. G., Penone, C., Keil, P., Allan, E., Lepš, J., ... & de Bello, F. (2024). *Biodiversity promotes resistance but dominant species shape recovery of grasslands under extreme drought*. Journal of Ecology, 112(5), 1087-1100. [**https://doi.org/10.1111/1365-2745.14288**](https://doi.org/10.1111/1365-2745.14288)
+
+- De Toma, A., Carboni, M., **Bazzichetto, M.**, Malavasi, M., & Cutini, M. (2022). _Dynamics of dwarf shrubs in Mediterranean high‐mountain ecosystems_. Journal of Vegetation Science, 33(4), e13143. [**https://doi.org/10.1111/jvs.13143**](https://doi.org/10.1111/jvs.13143)
 
 - Sperandii, M.G., de Bello, F., Valencia, E., Götzenberger, L., **Bazzichetto, M.**, Galland, T., .... , & Leps, J. (2022). _LOTVS: a global collection of permanent vegetation plots_. Journal of Vegetation Science, e13115. [**https://doi.org/10.1111/jvs.13115**](https://doi.org/10.1111/jvs.13115)
 
@@ -58,11 +60,13 @@ header:
 
 #### Species distribution modelling
 
-- Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto**, M.^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. Methods in Ecology and Evolution, 14(11), pp 2873-2887. (**https://doi.org/10.1111/2041-210X.14209**)
+- Moudrý, V., **Bazzichetto, M.**, Remelgado, R., Devillers, R., Lenoir, J., Mateo, R. G., ... & Šímová, P. (2023). *Optimising Species Distribution Models: Sample size, positional error, and sampling bias matter*. Accepted in Ecography. [**https://doi.org/10.32942/X2JS5D**](https://doi.org/10.32942/X2JS5D)
 
-- **Bazzichetto**, M., Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Barták, V., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
+- Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto, M.**^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. Methods in Ecology and Evolution, 14(11), pp 2873-2887. [https://doi.org/10.1111/2041-210X.14209](https://doi.org/10.1111/2041-210X.14209)
 
-- Marchetto, E., Da Re, D., Tordoni, E., **Bazzichetto**, M., Zannini, P., Celebrin, S., ... & Rocchini, D. (2023). _Testing the effect of sample prevalence and sampling methods on probability-and favourability-based SDMs_. Ecological Modelling, 477, 110248. [**https://doi.org/10.1016/j.ecolmodel.2022.110248**](https://doi.org/10.1016/j.ecolmodel.2022.110248)
+- **Bazzichetto, M.**, Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Barták, V., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
+
+- Marchetto, E., Da Re, D., Tordoni, E., **Bazzichetto, M.**, Zannini, P., Celebrin, S., ... & Rocchini, D. (2023). _Testing the effect of sample prevalence and sampling methods on probability-and favourability-based SDMs_. Ecological Modelling, 477, 110248. [**https://doi.org/10.1016/j.ecolmodel.2022.110248**](https://doi.org/10.1016/j.ecolmodel.2022.110248)
 
 - Rocchini, D., Tordoni, E., Marchetto, E., Marcantonio, M., Barbosa, A. M., **Bazzichetto, M.**, ... & Malavasi, M. (2023). _A quixotic view of spatial bias in modelling the distribution of species and their diversity_. npj Biodiversity, 2(1), 10. [**https://doi.org/10.1038/s44185-023-00014-6**](https://doi.org/10.1038/s44185-023-00014-6)
 
@@ -76,7 +80,7 @@ header:
 
 #### Miscellanea
 
-- Malavasi, M., **Bazzichetto**, M., Bagella, S., Barták, V., Depalmas, A., Gregorini, A., ... & Bagella, S. (2023). _Ecology meets archaeology: Past, present and future vegetation‐derived ecosystems services from the Nuragic Sardinia (1700–580 BCE)_. People and Nature, 5(3). [**https://doi.org/10.1002/pan3.10461**](https://doi.org/10.1002/pan3.10461)
+- Malavasi, M., **Bazzichetto, M.**, Bagella, S., Barták, V., Depalmas, A., Gregorini, A., ... & Bagella, S. (2023). _Ecology meets archaeology: Past, present and future vegetation‐derived ecosystems services from the Nuragic Sardinia (1700–580 BCE)_. People and Nature, 5(3). [**https://doi.org/10.1002/pan3.10461**](https://doi.org/10.1002/pan3.10461)
 
 - Yannelli, F., **Bazzichetto, M.**, Conradi, T., Pattison, Z., Andrade, B.O., .... , & Sperandii, M.G. _Fifteen emerging challenges and opportunities for vegetation science - A horizon scan by early career researchers_. Journal of Vegetation Science, e13119. [**https://doi.org/10.1111/jvs.13119**](https://doi.org/10.1111/jvs.13119)
 
