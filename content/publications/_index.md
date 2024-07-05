@@ -48,7 +48,7 @@ header:
 
 - Renault, D., Hess, M. C., Braschi, J., Cuthbert, R. N., Sperandii, M. G., **Bazzichetto, M.**, ... & Massol, F. (2022). _Advancing biological invasion hypothesis testing using functional diversity indices_. Science of The Total Environment, 155102. [**https://doi.org/10.1016/j.scitotenv.2022.155102**](https://doi.org/10.1016/j.scitotenv.2022.155102)
 
-- **Bazzichetto, M.**, Massol, F., Carboni, M., Lenoir, J., Lembrechts, J.J., Joly, R., & Renault, D. _Once upon a time in the far south: Influence of local drivers and functional traits on plant invasion in the harsh sub-Antarctic islands_. Journal of Vegetation Science, 32(4), e13057. [**https://doi.org/10.1111/jvs.13057**](https://doi.org/10.1111/jvs.13057); [**_Recommended by PCI Ecology_**](https://ecology.peercommunityin.org/public/rec?id=137&reviews=True)
+- **Bazzichetto, M.**, Massol, F., Carboni, M., Lenoir, J., Lembrechts, J.J., Joly, R., & Renault, D. _Once upon a time in the far south: Influence of local drivers and functional traits on plant invasion in the harsh sub-Antarctic islands_. Journal of Vegetation Science, 32(4), e13057. [**https://doi.org/10.1111/jvs.13057**](https://doi.org/10.1111/jvs.13057); [**_Recommended by PCI Ecology_**]
 
 - Malavasi, M., Barták, V., Jucker, T., Acosta, A.T.R., Carranza, M.L., & **Bazzichetto, M.** (2019). _Strength in Numbers: Combining Multi-Source Remotely Sensed Data to Model Plant Invasions in Coastal Dune Ecosystems_. Remote Sensing, 11(3), 275. [**https://doi.org/10.3390/rs11030275**](https://doi.org/10.3390/rs11030275)
 
@@ -64,7 +64,7 @@ header:
 
 - Da Re, D.^, Tordoni, E.^, Lenoir, J., Lembrechts, J.J., Vanwambeke, S. O., Rocchini, D., **Bazzichetto, M.**^ (2023). _USE it: uniformly sampling pseudo-absences within the environmental space for applications in habitat suitability models_. Methods in Ecology and Evolution, 14(11), pp 2873-2887. [https://doi.org/10.1111/2041-210X.14209](https://doi.org/10.1111/2041-210X.14209)
 
-- **Bazzichetto, M.**, Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Barták, V., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
+- **Bazzichetto, M.**, Lenoir, J., Da Re, D., Tordoni, E., Rocchini, D., Malavasi, M., Barták, V., Sperandii, M. G. (2023). _Sampling strategy matters to accurately estimate response curves’ parameters in species distribution models_. Global Ecology and Biogeography, 32(10), 1717-1729. [**https://doi.org/10.1111/geb.13725**](https://doi.org/10.1111/geb.13725)
 
 - Marchetto, E., Da Re, D., Tordoni, E., **Bazzichetto, M.**, Zannini, P., Celebrin, S., ... & Rocchini, D. (2023). _Testing the effect of sample prevalence and sampling methods on probability-and favourability-based SDMs_. Ecological Modelling, 477, 110248. [**https://doi.org/10.1016/j.ecolmodel.2022.110248**](https://doi.org/10.1016/j.ecolmodel.2022.110248)
 
