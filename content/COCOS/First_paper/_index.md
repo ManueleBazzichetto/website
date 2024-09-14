@@ -16,7 +16,7 @@ weight: 60
 
 <br>
 
-<img src="/img/GraphAbstract.png" alt="" width="700" height="600">
+#<img src="/img/GraphAbstract.jpeg" alt="" width="700" height="600">
 
 <br>
 
