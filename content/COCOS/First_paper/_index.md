@@ -16,10 +16,6 @@ weight: 60
 
 <br>
 
-#<img src="/img/GraphAbstract.jpeg" alt="" width="700" height="600">
-
-<br>
-
 In [this](https://mbazzichetto.netlify.app/cocos/preprint/) old post, I announced the publication of the first preprint related to COCOS (available on EcoEvoRXiv). The preprint version went through revision and was finally published in the *Journal of Ecology*. The paper, as well as associated data and code to reproduce the results, was published under a CC-BY 4.0 license.
 
 I am not going to summarize here what we found and reported on in the paper as this was already exhaustively done [here](https://mbazzichetto.netlify.app/cocos/preprint/) and [here](https://jecologyblog.com/2024/04/15/biodiversity-supports-grassland-resistance-and-recovery-under-extreme-drought/). The latter link lands to a post published on the blog of the Journal of Ecology, where we summarized results of our research in plain English!
