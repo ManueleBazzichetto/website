@@ -12,6 +12,13 @@ weight: 60
 
 <br>
 
+<figure>
+  <img src="/img/Cate2.jpg" alt="" style="width:60%">
+  <figcaption>Photo credit: Caterina Penone</figcaption>
+</figure>
+
+<br>
+
 ## First publication about COCOS is out in Journal of Ecology!
 
 <br>
