@@ -22,9 +22,15 @@ header:
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/NetworkBaz.html"></iframe>
 
-### List of publications (since 2016) sorted by macro-categories
+## List of publications (since 2016) sorted by macro-categories
 
-#### Vegetation ecology
+<br>
+
+## Vegetation ecology
+
+{{< details >}}
+
+- Sarmati, S., Angiolini, C., Sperandii, M. G., Barták, V., Gennai, M., Acosta, A. T. R., ... & **Bazzichetto, M.** (2025). _A complex interplay between natural and anthropogenic factors shapes plant diversity patterns in Mediterranean coastal dunes_. Landscape Ecology, 40(1), 1-18. [https://doi.org/10.1007/s10980-024-02025-5](https://doi.org/10.1007/s10980-024-02025-5)
 
 - **Bazzichetto, M.**, Sperandii, M. G., Penone, C., Keil, P., Allan, E., Lepš, J., ... & de Bello, F. (2024). *Biodiversity promotes resistance but dominant species shape recovery of grasslands under extreme drought*. Journal of Ecology, 112(5), 1087-1100. [**https://doi.org/10.1111/1365-2745.14288**](https://doi.org/10.1111/1365-2745.14288)
 
@@ -44,7 +50,11 @@ header:
 
 - **Bazzichetto, M.**, Malavasi, M., Acosta, A.T.R., & Carranza, M. L. (2016). _How does dune morphology shape coastal EC habitats occurrence? A remote sensing approach using airborne LiDAR on the Mediterranean coast_. Ecological indicators, 71, 618-626. [**https://doi.org/10.1016/j.ecolind.2016.07.044**](https://doi.org/10.1016/j.ecolind.2016.07.044)
 
-#### Invasion ecology
+{{< /details >}}
+
+## Invasion ecology
+
+{{< details >}}
 
 - Renault, D., Hess, M. C., Braschi, J., Cuthbert, R. N., Sperandii, M. G., **Bazzichetto, M.**, ... & Massol, F. (2022). _Advancing biological invasion hypothesis testing using functional diversity indices_. Science of The Total Environment, 155102. [**https://doi.org/10.1016/j.scitotenv.2022.155102**](https://doi.org/10.1016/j.scitotenv.2022.155102)
 
@@ -58,7 +68,11 @@ header:
 
 - **Bazzichetto, M.**, Malavasi, M., Barták, V., Acosta, A.T.R., Moudrý, V., & Carranza, M. L. (2018). _Modeling plant invasion on Mediterranean coastal landscapes: An integrative approach using remotely sensed data_. Landscape and Urban Planning, 171, 98-106. [**https://doi.org/10.1016/j.landurbplan.2017.11.006**](https://doi.org/10.1016/j.landurbplan.2017.11.006)
 
-#### Species distribution modelling
+{{< /details >}}
+
+## Species distribution modelling
+
+{{< details >}}
 
 - Moudrý, V., **Bazzichetto, M.**, Remelgado, R., Devillers, R., Lenoir, J., Mateo, R. G., ... & Šímová, P. (2023). *Optimising Species Distribution Models: Sample size, positional error, and sampling bias matter*. Accepted in Ecography. [**https://doi.org/10.32942/X2JS5D**](https://doi.org/10.32942/X2JS5D)
 
@@ -70,7 +84,11 @@ header:
 
 - Rocchini, D., Tordoni, E., Marchetto, E., Marcantonio, M., Barbosa, A. M., **Bazzichetto, M.**, ... & Malavasi, M. (2023). _A quixotic view of spatial bias in modelling the distribution of species and their diversity_. npj Biodiversity, 2(1), 10. [**https://doi.org/10.1038/s44185-023-00014-6**](https://doi.org/10.1038/s44185-023-00014-6)
 
-#### Beach litter
+{{< /details >}}
+
+## Beach litter
+
+{{< details >}}
 
 - Poeta, G.^, **Bazzichetto, M.**^, Gallitelli, L., ... & Malavasi, M. (2022). _One year after on Tyrrhenian coasts: The ban of cotton buds does not reduce their dominance in beach litter composition_. Marine Policy, 143, 105195. [**https://doi.org/10.1016/j.marpol.2022.105195**](https://doi.org/10.1016/j.marpol.2022.105195)
 
@@ -78,7 +96,13 @@ header:
 
 - Poeta, G., Battisti, C., **Bazzichetto, M.**, & Acosta, A.T.R. (2016). _The cotton buds beach: Marine litter assessment along the Tyrrhenian coast of central Italy following the marine strategy framework directive criteria_. Marine pollution bulletin, 113(1-2), 266-270. [**https://doi.org/10.1016/j.marpolbul.2016.09.035**](https://doi.org/10.1016/j.marpolbul.2016.09.035)
 
-#### Miscellanea
+{{< /details >}}
+
+## Miscellanea
+
+{{< details >}}
+
+- Sperandii, M. G., **Bazzichetto, M.**, Götzenberger, L., Moretti, M., Achury, R., Blüthgen, N., ... & Gossner, M. M. (2025). _Functional traits mediate the effect of land use on drivers of community stability within and across trophic levels_. Science Advances, 11(4), eadp6445. [https://doi.org/10.1126/sciadv.adp6445](https://doi.org/10.1126/sciadv.adp6445)
 
 - Malavasi, M., **Bazzichetto, M.**, Bagella, S., Barták, V., Depalmas, A., Gregorini, A., ... & Bagella, S. (2023). _Ecology meets archaeology: Past, present and future vegetation‐derived ecosystems services from the Nuragic Sardinia (1700–580 BCE)_. People and Nature, 5(3). [**https://doi.org/10.1002/pan3.10461**](https://doi.org/10.1002/pan3.10461)
 
@@ -86,6 +110,7 @@ header:
 
 - Rocchini, D., Iannacito, M., Thouverai, E., Marcantonio, M., Da Re, D., Bacaro, G., **Bazzichetto, M.**,  Bernardi, A., Foody, G.M., Furrer, R., Larsen, S., Lenoir, J., Malavasi, M., Montaghi, A., Moudrý, V., Naimi, B., Payne, D., Ricotta, C., ..., Wegmann, M. (2021). _rasterdiv: an Information Theory tailored R package for measuring diversity from space: to the origin and back_. Methods in Ecology and Evolution, 12(6): 1093-1102. [**https://doi.org/10.1111/2041-210X.13583**](https://doi.org/10.1111/2041-210X.13583)
 
+{{< /details >}}
 
 <br>
 
