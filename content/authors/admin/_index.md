@@ -10,8 +10,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Czech University of Life Sciences
-  url: https://www.czu.cz/en
+- name: University of Bologna
+  url: https://www.unibo.it/sitoweb/manuele.bazzichetto
 
 # Short bio (displayed in user profile at end of posts)
 bio: By learning to do the easy things the hard way, the hard things will become easy (Royale & Dorazio).
