@@ -12,6 +12,8 @@ design:
   columns: '1'
 ---
 
-My name is Manuele Bazzichetto. I am a vegetation ecologist broadly interested in what drives vegetation patterns and processes across space and over time. So far, my research has focused on biological invasions, species distribution modelling, and, from recently, I have started investigating the effect of climatic extremes on the stability of ecosystem functions.
+I am a vegetation ecologist with a broad interest in understanding what drives vegetation patterns and processes across space and time. My research has focused on several aspects, including biological invasions, the role of anthropogenic and natural factors in shaping plant diversity patterns in different ecosystem types, and the relationship between biodiversity and ecosystem's response to extreme climatic events.
 
-Since October 2022, I am a MSCA (Marie Skłodowska-Curie Actions) fellow at the [*MOBI lab*](https://petrkeil.github.io) (Dpt. of Spatial Science, Czech University of Life Sciences), where, together with Petr Keil, I will be investigating how extreme climatic events affect the temporal stability of vegetation-related functions, such as plan biomass. Our project is: [*COCOS*](https://mbazzichetto.netlify.app/cocos/): effects of Climatic extremes On eCOsystem Stability. I will be posting news about it [*here*](https://mbazzichetto.netlify.app/cocos/).
+From 2022 to 2024, I was a Marie Skłodowska-Curie fellow at the [*MOBI lab*](https://petrkeil.github.io) at the Czech University of Life Sciences Prague. There, I ran [*COCOS*](https://mbazzichetto.netlify.app/cocos/), which aimed at investigating how extreme climatic events affect the temporal stability of vegetation-related functions, such as plan biomass. Want to know more about COCOS? [*Visit this page*](https://mbazzichetto.netlify.app/cocos/).
+
+At the end of 2024, I joined the [*MOTIVATE*](https://motivate-biodiversity.eu) project as a postdoctoral researcher at the University of Bologna. My task will be to model changes in plant community composition (i.e., beta diversity) and investigate the drivers of these changes within European habitats.
